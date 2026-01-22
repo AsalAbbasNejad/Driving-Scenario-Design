@@ -1,11 +1,12 @@
 
 # Vehicle Trajectory Tracking with Kalman Filtering Methods
-![1766515016040](https://github.com/user-attachments/assets/19f3dd19-2cae-4f8f-8bd1-65d2101b6e4a)
-![1766515017410](https://github.com/user-attachments/assets/89de02bd-b9b8-4408-9cf7-f37d133c831b)
-
 
 This repository presents a MATLAB-based research project on vehicle trajectory tracking
 using classical model-based and modern learning-based Kalman filtering techniques.
+
+![1766515016040](https://github.com/user-attachments/assets/19f3dd19-2cae-4f8f-8bd1-65d2101b6e4a)
+![1766515017410](https://github.com/user-attachments/assets/89de02bd-b9b8-4408-9cf7-f37d133c831b)
+
 
 ## Project Overview
 
